@@ -17,6 +17,8 @@ In **Python** we mostly work with data input:
 
 A typical program takes this input, does what you want, and then returns the output.
 
+![Demo hello world](../figures/Week1/input_output_image.png)
+
 ## Variables
 The whole point of input, is that it may be different every time you run your program. We need a place to store it so we can refer to it at a later time. This is what **variables** are for.
 

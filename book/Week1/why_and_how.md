@@ -10,16 +10,16 @@ But how do you tell a computer what to do so it can only be interpreted in **one
 
 ## Programming Code
 
-Everything you do on a computer, be it your laptop, your phone, your smartwatch, is only made possible through programming code.
-- You hit a like button? 
-  - Code is *executed* to make the like counter go up by one
-- You ignore your mum calling you?
-  - Code is *executed* so she gets your voicemail instead
-- You are reading this very sentence?
-  - Code was *executed* to get it from my keyboard to your eyes
+Everything you do on a computer, be it on your laptop, on your phone, on your smartwatch, is only made possible through programming code telling your device what to do.
 
-My point is, that programming code is everywhere, programmers and designers have just gotten much better at hiding it exists.
+**You hit a like button?** → Code is *executed* to make the like counter go up by one
 
-If you want to get the most out of your computer, if you want to make it do stuff nobody has thought of before, want to automate some process, or are simply too lazy to do stuff by hand: 
+**You ignore your mum calling you?** → Code is *executed* so she gets your voicemail instead
 
-**Learning to code will open those doors for you**.
+**You are reading this very sentence?** → Code was *executed* to get it from my keyboard to your eyes
+
+My point is, that programming code is everywhere, programmers and designers have just gotten much better at hiding it exists. But, if you want to get the most out of your computer, if you want to make it do stuff nobody has thought of before, want to automate some process, or are simply too lazy (/smart) to do stuff by hand: 
+
+<span style="font-size:larger;"> Learning to code will open those doors for you!</span>
+
+So let's get started
