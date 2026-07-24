@@ -5,7 +5,8 @@ This is the teachbook for the course Exploring the Grand Challenges (ECTB1110A) 
 
 Python is a computer programming language that is widely used in both academia and industries related to Earth, Climate and Technology, Civil Engineering and Environmental Engineering. Being skilled in Python will help you to analyse and visualise data and results. You can even build very advanced computer models using python. This teachbook starts with the basics of python.
 
-All the details about the Python language are explained in this book: <a href="https://greenteapress.com/wp/think-python-2e/">"Think Python 2nd Edition" by Allen B. Downey</a>. Use it to look up the details of writing python.
+All the details about the Python language are explained in this online book: <a href="https://greenteapress.com/wp/think-python-2e/">"Think Python 2nd Edition" by Allen B. Downey</a>. Use it to look up the details of writing python.
+https://allendowney.github.io/ThinkPython/
 
 In this course, you will use **Python Notebooks** with Jupyter Notebooks or Jupyter Lab for exercises. These notebooks allow you to run scripts in segments, called cells, enabling you to execute specific code parts individually. To run a cell, select it and press **'run cell'** or use the **Shift + Enter** shortcut. This is particularly useful for data analysis, as it allows for quick modifications or the addition of explanations, formulas, or visualizations.
 
