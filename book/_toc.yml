@@ -12,6 +12,11 @@ parts:
     - file: Week1/what_is_python.md
     - file: Week1/input_to_output.md
     - file: Week1/types_and_operators.md
+  - caption: "Week 3: Lists and loops"
+    chapters:
+    - file: Week3/lists.md
+    - file: Week3/loops.md
+    - file: Week3/dictionaries.md
 
     # - file: exercise_notebooks/exercise_notebook_week_1.ipynb
 
