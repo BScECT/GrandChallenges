@@ -1,8 +1,8 @@
-Hardware vs. Software, and Your C: Drive
+# Hardware vs. Software, and Your C: Drive
 
 Your computer has two basic parts: hardware (the physical components: your hard drive, memory, processor, etc.) and software (the programs and operating system that run on that hardware, like Windows itself, or apps such as Word or a browser).
 
-For windows users:
+## For windows users:
 
 Your C: drive is the main storage drive inside your computer. It's split into two functional parts:
 
@@ -26,7 +26,7 @@ Open "GrandChallenges", then create a new folder inside it called "week01".
 
 You should end up with this path: C:\Bachelor\year1\CourseName\week01. This is where you will save all the documents related to this course. Make sure to use this folder structure for your other courses as well to keep the overview in your laptop.
 
-For mac users:
+## For mac users:
 
 Your Mac's internal storage (usually labeled "Macintosh HD") is where macOS and your personal files live. It's split into two functional parts:
 
