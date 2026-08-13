@@ -18,6 +18,7 @@ parts:
     - file: Week3/loops.md
     - file: Week3/dictionaries.md
 
+
     # - file: exercise_notebooks/exercise_notebook_week_1.ipynb
 
   # - caption: Files and folders
