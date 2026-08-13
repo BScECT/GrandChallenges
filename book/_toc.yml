@@ -15,7 +15,7 @@ parts:
 
   - caption: "Week 2: Variables and operators"
     chapters:
-    - file: Week2/Theory_week2_Variables_Operators.md
+    - file: Week2/Theory_week2_Variables_Operators.ipynb
     - file: Week2/Exercise_week2.ipynb
 
   - caption: "Week 3: Lists and loops"
