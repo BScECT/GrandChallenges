@@ -1,4 +1,4 @@
-# Hardware vs. Software, and Your C: Drive
+# Hardware vs. Software
 
 Your computer has two basic parts: hardware (the physical components: your hard drive, memory, processor, etc.) and software (the programs and operating system that run on that hardware, like Windows itself, or apps such as Word or a browser).
 
