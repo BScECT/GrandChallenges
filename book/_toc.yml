@@ -12,6 +12,12 @@ parts:
     - file: Week1/what_is_python.md
     - file: Week1/input_to_output.md
     - file: Week1/types_and_operators.md
+
+  - caption: "Week 2: Variables and operators"
+    chapters:
+    - file: Week2/Theory_week2_Variables_Operators.md
+    - file: Week2/Exercise_week2.md
+
   - caption: "Week 3: Lists and loops"
     chapters:
     - file: Week3/lists.md
