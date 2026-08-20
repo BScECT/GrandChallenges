@@ -1,6 +1,6 @@
-## Types of values
+## Types of variables
 
-Values in Python come in different types, and the type determines what you can do with them. The most common ones you'll meet early on are:
+Variables in Python come in different types, and the type determines what you can do with them. The most common ones you'll meet early on are:
 
 - **Integers** (`int`) — whole numbers, like `19` or `-3`
 - **Floats** (`float`) — decimal numbers, like `7.8` or `3.14`
