@@ -1,7 +1,7 @@
 # Variables and operators
 In this chapter you will learn about variables, operators and conditions. All the information about these topics van be found in Think Python (2nd ed.) - Section 2 and 5. 
 
-Once you have gone through the chapter, you can download the exercise here: [Download the exercise notebook](https://raw.githubusercontent.com/BScECT/GrandChallenges/main/Exercises/Exercise_chapter2.ipynb)
+Once you have gone through the chapter, right-click and select "Save Link As" to download the exercise: [Download the exercise notebook](https://raw.githubusercontent.com/BScECT/GrandChallenges/main/Exercises/Exercise_chapter2.ipynb). Then open the exercise in Jupyter notebook that you can access via anaconda and do the exercise.
 
 ## Creating a variable
 
