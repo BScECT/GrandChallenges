@@ -1,7 +1,11 @@
 # Variables and arithmetic operators
+In this chapter you will learn about variables, operators and conditions. All the information about these topics van be found in Think Python (2nd ed.) - Section 2 and 5. 
+
+Once you have gone through the chapter, you can download the exercise here: {download}`Download the exercise notebook <./Exercises/Exercise_chapter2.ipynb>`
+
+
 
 ## Creating a variable
-More information in Think Python (2nd ed.) - Section 2
 
 When you want to compute something, you often need to store a piece of information so you can use it later, for example a number, a name, a result of a calculation. In Python, you do this with a **variable**. Think of a variable as a labeled box: you give it a name, and you put a value inside it.
 

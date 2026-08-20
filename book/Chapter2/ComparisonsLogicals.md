@@ -1,9 +1,5 @@
-# Operators in Python
 
-
-## Comparison operators
-
-# 2.3 Conditions and if statements
+# Conditions and if statements
 
 In this Section you will learn how to control the flow of your code — process data differently based on some conditions. For that you will learn a construction called the **`if`** statement.
 
