@@ -15,7 +15,10 @@ parts:
 
   - caption: "Week 2: Variables and operators"
     chapters:
-    - file: Week2/Variables.md
+    - file: Week2/VariablesOperators.md
+    - file: Week2/Types.md
+    - file: Week2/ComparisonsLogicals.md
+
 
   - caption: "Week 3: Lists and loops"
     chapters:
