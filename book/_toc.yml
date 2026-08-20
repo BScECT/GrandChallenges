@@ -4,24 +4,24 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: "Week 1: Getting started!"
+  - caption: "Chapter 1: Getting started!"
     chapters:
-    - file: Week1/folders.md
-    - file: Week1/installation.md
-    - file: Week1/why_and_how.md
-    - file: Week1/what_is_python.md
-    - file: Week1/input_to_output.md
-    - file: Week1/types_and_operators.md
+    - file: Chapter1/folders.md
+    - file: Chapter1/installation.md
+    - file: Chapter1/why_and_how.md
+    - file: Chapter1/what_is_python.md
+    - file: Chapter1/input_to_output.md
+    - file: Chapter1/types_and_operators.md
 
-  - caption: "Week 2: Variables and operators"
+  - caption: "Chapter 2: Variables and operators"
     chapters:
-    - file: Week2/Variables.md
+    - file: Chapter2/Variables.md
 
-  - caption: "Week 3: Lists and loops"
+  - caption: "Chapter 3: Lists and loops"
     chapters:
-    - file: Week3/lists.md
-    - file: Week3/loops.md
-    - file: Week3/dictionaries.md
+    - file: Chapter3/lists.md
+    - file: Chapter3/loops.md
+    - file: Chapter3/dictionaries.md
 
 
     # - file: exercise_notebooks/exercise_notebook_week_1.ipynb
