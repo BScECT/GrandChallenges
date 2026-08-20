@@ -3,7 +3,10 @@ In this chapter you will learn about variables, operators and conditions. All th
 
 Once you have gone through the chapter, you can download the exercise here: {download}`Download the exercise notebook <./Exercises/Exercise_chapter2.ipynb>`
 
-
+```{custom_download_link} ./Exercises/Exercise_chapter2.ipynb
+:text: "Exercise notebook"
+:replace_default: "True"
+```
 
 ## Creating a variable
 
