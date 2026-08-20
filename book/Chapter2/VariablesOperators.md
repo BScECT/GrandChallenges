@@ -1,4 +1,4 @@
-# Variables and arithmetic operators
+# Variables and operators
 In this chapter you will learn about variables, operators and conditions. All the information about these topics van be found in Think Python (2nd ed.) - Section 2 and 5. 
 
 Once you have gone through the chapter, you can download the exercise here: {download}`Download the exercise notebook <./Exercises/Exercise_chapter2.ipynb>`
