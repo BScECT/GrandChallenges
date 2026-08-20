@@ -20,8 +20,35 @@ parts:
     - file: Chapter2/ComparisonsLogicals.md
 
 
-  - caption: "Chapter 3: Lists and loops"
+  - caption: "Chapter 3: Flow and conditions"
     chapters:
-    - file: Chapter3/lists.md
-    - file: Chapter3/loops.md
-    - file: Chapter3/dictionaries.md
+    - file: Chapter3/booleans.md
+    - file: Chapter3/if_and_else.md
+    - file: Chapter3/other_conditions.md
+
+  - caption: "Chapter 4: Lists and loops"
+    chapters:
+    - file: Chapter4/lists.md
+    - file: Chapter4/loops.md
+    - file: Chapter4/dictionaries.md
+
+
+    # - file: exercise_notebooks/exercise_notebook_week_1.ipynb
+
+  # - caption: Files and folders
+  #   chapters:
+  #   - file: files-and-folders/book/part0/part0.md
+  #   - file: files-and-folders/book/part1/part1.md
+  #   - file: files-and-folders/book/part2/part2.md
+  #   - file: files-and-folders/book/part3/part3.md
+  #   - file: files-and-folders/book/part4/part4.md
+  #   - file: files-and-folders/book/part5/part5.md
+
+  # - caption: Course content
+  #   chapters:
+  #   - file: notebook_1_operators_variables/PythonNotebook1_first_page.ipynb
+  #     sections:
+  #       - file: notebook_1_operators_variables/PythonNotebook1_first_python_script.ipynb
+  #       - file: notebook_1_operators_variables/PythonNotebook1_python_variables.ipynb
+  #       - file: notebook_1_operators_variables/PythonNotebook1_python_operators.ipynb
+  #       - file: exercise_notebooks/exercise_notebook_1_operators_variables.ipynb
