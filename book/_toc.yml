@@ -15,10 +15,9 @@ parts:
 
   - caption: "Chapter 2: Variables and operators"
     chapters:
-    - file: Chapter2/variables.md
-    - file: Chapter2/variable_types.md
-    - file: Chapter2/operators.md
-    - file: Chapter2/larger_equations.md
+    - file: Chapter2/VariablesOperators.md
+    - file: Chapter2/Types.md
+    - file: Chapter2/ComparisonsLogicals.md
 
 
   - caption: "Chapter 3: Flow and conditions"
@@ -53,45 +52,3 @@ parts:
   #       - file: notebook_1_operators_variables/PythonNotebook1_python_variables.ipynb
   #       - file: notebook_1_operators_variables/PythonNotebook1_python_operators.ipynb
   #       - file: exercise_notebooks/exercise_notebook_1_operators_variables.ipynb
-
-  #   - file: notebook_2_smart_coding/PythonNotebook2_first_page.ipynb
-  #     sections:
-  #       - file: notebook_2_smart_coding/PythonNotebook2_f-strings.ipynb
-  #       - file: notebook_2_smart_coding/PythonNotebook2_functions.ipynb
-  #       - file: notebook_2_smart_coding/PythonNotebook2_modules.ipynb
-  #       - file: notebook_2_smart_coding/PythonNotebook2_conditions.ipynb
-  #       - file: exercise_notebooks/exercise_notebook_2_smart_coding.ipynb
-
-  #   - file: notebook_3_structures_loops/PythonNotebook3_first_page.ipynb
-  #     sections:
-  #       - file: notebook_3_structures_loops/PythonNotebook3_data_structures.ipynb
-  #       - file: notebook_3_structures_loops/PythonNotebook3_loops.ipynb
-  #       # - file: notebook_3_structures_loops/PythonNotebook3_debugging.ipynb
-  #       - file: exercise_notebooks/exercise_notebook_3_structures_loops.ipynb
-  #       # - file: exercise_notebooks/exercise_notebook_3_loops_debugging.ipynb
-
-  #   - file: notebook_4_debugging/PythonNotebook4_first_page.ipynb
-  #     sections:
-  #       - file: notebook_4_debugging/PythonNotebook4_debugging.ipynb
-  #       - file: exercise_notebooks/exercise_notebook_4_debugging.ipynb
-
-  #   - file: notebook_5_figures/PythonNotebook5_first_page.ipynb
-  #     sections:
-  #       # - file: notebook_5_figures/PythonNotebook5_matplotlib.ipynb
-  #       - file: exercise_notebooks/exercise_notebook_5_figures.ipynb
-
-  #   - file: notebook_6_numpy/PythonNotebook6_first_page.ipynb
-  #     sections:
-  #       - file: notebook_6_numpy/PythonNotebook6_vectors_and_plotting_with_numpy.ipynb
-  #       - file: notebook_6_numpy/PythonNotebook6_loading_data.ipynb
-  #       - file: exercise_notebooks/exercise_notebook_6_numpy.ipynb
-
-  #   - file: notebook_7_files/PythonNotebook7_first_page.ipynb
-  #     sections:
-  #       - file: exercise_notebooks/exercise_notebook_7_files.ipynb
-
-  # - caption: Miscellaneous
-  #   chapters:
-  #   - file: references.md
-  #   - file: changelog.md
-  #   - file: credits.md
