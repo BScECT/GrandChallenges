@@ -15,9 +15,10 @@ parts:
 
   - caption: "Chapter 2: Variables and operators"
     chapters:
-    - file: Chapter2/VariablesOperators.md
-    - file: Chapter2/Types.md
-    - file: Chapter2/ComparisonsLogicals.md
+    - file: Chapter2/variables.md
+    - file: Chapter2/variable_types.md
+    - file: Chapter2/operators.md
+    - file: Chapter2/larger_equations.md
 
 
   - caption: "Chapter 3: Flow and conditions"
