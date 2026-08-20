@@ -1,4 +1,4 @@
-## Arithmetic operators
+# Arithmetic operators
 
 Once you have variables, operators let you do things with them. 
 

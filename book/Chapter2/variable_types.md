@@ -1,4 +1,4 @@
-## Types of values
+# Types of values
 
 Values in Python come in different types, and the type determines what you can do with them. The most common ones you'll meet early on are:
 

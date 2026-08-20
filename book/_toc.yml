@@ -17,7 +17,7 @@ parts:
     chapters:
     - file: Chapter2/variables.md
     - file: Chapter2/variable_types.md
-    - file: Chapter2/operators.m
+    - file: Chapter2/operators.md
     - file: Chapter2/larger_equations.md
 
 
