@@ -19,13 +19,14 @@ parts:
     - file: Chapter2/variable_types.md
     - file: Chapter2/operators.md
     - file: Chapter2/larger_equations.md
-
+    - file: Chapter2/exercises.md
 
   - caption: "Chapter 3: Flow and conditions"
     chapters:
     - file: Chapter3/booleans.md
     - file: Chapter3/if_and_else.md
     - file: Chapter3/other_conditions.md
+    - file: Chapter3/exercises.md
 
   - caption: "Chapter 4: Lists and loops"
     chapters:
