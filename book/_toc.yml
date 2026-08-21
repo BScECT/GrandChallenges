@@ -34,6 +34,14 @@ parts:
     - file: Chapter4/loops.md
     - file: Chapter4/dictionaries.md
 
+  - caption: "Chapter 5: Functions and classes"
+    chapters:
+    - file: Chapter5/functions.md
+    - file: Chapter5/classes.md
+  
+  - caption: "Chapter 6: Data and figures"
+    chapters:
+    - file: Chapter6/figures.md
 
     # - file: exercise_notebooks/exercise_notebook_week_1.ipynb
 
