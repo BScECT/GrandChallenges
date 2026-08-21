@@ -114,3 +114,7 @@ _build/
 
 # poetry files
 pyproject.toml
+
+# uv files
+uv.lock
+
