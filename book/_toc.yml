@@ -6,9 +6,9 @@ root: intro.md
 parts:
   - caption: "Chapter 1: Getting started!"
     chapters:
+    - file: Chapter1/why_and_how.md
     - file: Chapter1/folders.md
     - file: Chapter1/installation.md
-    - file: Chapter1/why_and_how.md
     - file: Chapter1/what_is_python.md
     - file: Chapter1/input_to_output.md
     - file: Chapter1/types_and_operators.md

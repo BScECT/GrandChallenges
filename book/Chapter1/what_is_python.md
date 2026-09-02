@@ -56,7 +56,7 @@ There are many different ways to run, or **execute**, Python code. In this cours
 - By writing a Python script and running it
 - By using Jupyter Notebooks
 
-In preparation to this course you installed **Anaconda**, which is an overarching application to help you out with Python. If you managed to install Anaconda correctly, you can open Python by typing the following commands in your Command Prompt (Windows) or Terminal (MacOS):
+You just installed **Anaconda**, which is an overarching application to help you out with Python. If you managed to install Anaconda correctly, you can open Python by typing the following commands in your Command Prompt (Windows) or Terminal (MacOS):
 
 ```
 conda activate base

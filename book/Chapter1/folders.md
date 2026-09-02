@@ -1,11 +1,14 @@
-# Hardware vs. Software
+# Keeping it clean
 
-Your computer has two basic parts:
+Your computer is like your room. There are many different things stored in it. If you just got a new laptop for this studies, chances are it's still nice, clean and empty. If it's like mine, it's clogged up with old holiday pictures. The trick is to make sure that five years from now, you will still be able to find the things you did today. 
 
-- **Hardware** — the physical components: your hard drive, memory, processor, etc.
-- **Software** — the programs and operating system that run on that hardware, like Windows itself, or apps such as Word or a browser.
+So before we get started with the fun stuff, you will need to **structure** your folders and files in such a way that makes sense. That's much easier than cleaning up afterwards.
 
----
+```{admonition} Exercise
+:class: info
+Create a folder structure using the example below. Then let your neighbour find the `week01` folder you created on your computer **without your help**. Discuss why a folder structure is useful and think of an improvement to this particular structure.
++++
+```
 
 ## For Windows Users
 
