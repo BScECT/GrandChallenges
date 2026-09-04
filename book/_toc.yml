@@ -13,35 +13,35 @@ parts:
     - file: Chapter1/input_to_output.md
     - file: Chapter1/types_and_operators.md
 
-  - caption: "Chapter 2: Variables and operators"
-    chapters:
-    - file: Chapter2/variables.md
-    - file: Chapter2/variable_types.md
-    - file: Chapter2/operators.md
-    - file: Chapter2/larger_equations.md
-    - file: Chapter2/exercises.md
+  # - caption: "Chapter 2: Variables and operators"
+  #   chapters:
+  #   - file: Chapter2/variables.md
+  #   - file: Chapter2/variable_types.md
+  #   - file: Chapter2/operators.md
+  #   - file: Chapter2/larger_equations.md
+  #   - file: Chapter2/exercises.md
 
-  - caption: "Chapter 3: Flow and conditions"
-    chapters:
-    - file: Chapter3/booleans.md
-    - file: Chapter3/if_and_else.md
-    - file: Chapter3/other_conditions.md
-    - file: Chapter3/exercises.md
+  # - caption: "Chapter 3: Flow and conditions"
+  #   chapters:
+  #   - file: Chapter3/booleans.md
+  #   - file: Chapter3/if_and_else.md
+  #   - file: Chapter3/other_conditions.md
+  #   - file: Chapter3/exercises.md
 
-  - caption: "Chapter 4: Lists and loops"
-    chapters:
-    - file: Chapter4/lists.md
-    - file: Chapter4/loops.md
-    - file: Chapter4/dictionaries.md
+  # - caption: "Chapter 4: Lists and loops"
+  #   chapters:
+  #   - file: Chapter4/lists.md
+  #   - file: Chapter4/loops.md
+  #   - file: Chapter4/dictionaries.md
 
-  - caption: "Chapter 5: Functions and classes"
-    chapters:
-    - file: Chapter5/functions.md
-    - file: Chapter5/classes.md
+  # - caption: "Chapter 5: Functions and classes"
+  #   chapters:
+  #   - file: Chapter5/functions.md
+  #   - file: Chapter5/classes.md
   
-  - caption: "Chapter 6: Data and figures"
-    chapters:
-    - file: Chapter6/figures.md
+  # - caption: "Chapter 6: Data and figures"
+  #   chapters:
+  #   - file: Chapter6/figures.md
 
     # - file: exercise_notebooks/exercise_notebook_week_1.ipynb
 
