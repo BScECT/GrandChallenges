@@ -35,10 +35,4 @@ best to avoid spaces in the path.
 * Figure out where you downloaded the file. Run it.
   Complete the installation according to the instructions you see.
 
-<!-- # First Exercise Notebook
 
-* Go to the next page, which will open the first notebook exercise, which you should download to your computer, and then need to open with Jupyter Notebook following the steps below.
-* In the folder of this course, create a new folder named "Exercises". Now download the exercise, find where it was downloaded to and then move the exercise to the folder named "Exercises".
-* Unzip the zip file. For a Mac: just double click on it. For windows: click one time on the zip file, right-click the zip file, choose Extract All, click Extract.
-* Jupyter Notebook should be automatically installed with Anaconda. You can launch it from the Anaconda Navigator app, or search for anaconda prompt in your searchbar, write the following command: "jupyter notebook", and press enter to run it.
-* Once Jupyter notebook has been opened in your browser, you can search for the Jupyter Notebook "Exercise Notebook 1" in the folder where you downloaded it to and open it. -->

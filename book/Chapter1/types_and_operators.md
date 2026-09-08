@@ -35,3 +35,20 @@ Now, what's the point of all of this? We specify variable types because each typ
 result = 1 + 1
 print(result)  # Returns 2
 ```
+
+## Jupyter Notebooks
+You can also use python in Jupyter Notebooks. Starting from next week, you will do exercises in Jupyter Notebook. For now, you will just open Jupyter and create a new notebook. 
+
+1. Launch Jupyter Notebook from your Anaconda Navigator:
+![Launch Jupyter Notebook](../figures/Week1/jupyternotebook.png)
+
+2. Find the folder for this course that you created in the page "Keeping it clean". Navigate to "Week01".
+3. Right-click in the white and create a new notebook. Try to do some calculations.
+
+## Have your work checked before you leave
+
+Show a TA that you:
+- Created the folder structure correctly
+- Can run commands in the Anaconda Prompt
+- Created a new Python Notebook
+

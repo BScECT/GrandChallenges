@@ -23,13 +23,14 @@ Many computers are set up so that "Documents" or "Desktop" automatically save to
 
 1. Open **File Explorer** (folder icon in the taskbar, or press `Windows + E`).
 2. In the left sidebar, look for **This PC** and click it.
-3. Under "This PC," you'll see your drives listed — click on **Local Disk (C:)**. This is different from any folder labeled "OneDrive."
+3. Under "This PC," you'll see your drives listed — click on **Windows (C:)**. This is different from any folder labeled "OneDrive."
 
 ### Creating Your Folder Structure
 
 Once you're in the `C:` drive:
 
-1. Check if you already have a folder called **Bachelor**. If not, right-click in empty space → **New** → **Folder** → name it `Bachelor`.
+1. Open the folder called "Users" by double-clicking on the folder. Next, open the folder with your username. Here you can find the folder called "Documents". The documents folder is where you will save all the documents during your whole studies. Right-click on the Documents folder and click "Pin to quick access". Now you can find this folder at the top left in the folder tree.
+2. Open the Documents folder. Check if you already have a folder called **Bachelor**. If not, right-click in empty space → **New** → **Folder** → name it `Bachelor`.
 2. Open the `Bachelor` folder, then create a new folder inside it called `year1`.
 3. Open `year1`, then create a new folder inside it called `CourseName`. You can choose the code of this course (e.g. `ECTB1110`), the name of the course (e.g. `GrandChallenges`), or a variation (e.g. `ECTB1110_GrandChallenges`). Choose according to your preference or think of your own filenaming system.
 4. Open `GrandChallenges`, then create a new folder inside it called `week01`.
@@ -37,10 +38,10 @@ Once you're in the `C:` drive:
 You should end up with this path:
 
 ```
-C:\Bachelor\year1\CourseName\week01
+C:\Users\username\Documents\Bachelor\year1\CourseName\week01
 ```
 
-This is where you will save all the documents related to this course. Make sure to use this folder structure for your other courses as well to keep the overview in your laptop.
+The folder with the coursename is where you will save all the documents related to this course. Make sure to use this folder structure for your other courses as well to keep the overview in your laptop.
 
 ---
 
@@ -63,7 +64,7 @@ Many Macs are set up so that "Documents" or "Desktop" automatically save to iClo
 
 Once you're in your home folder:
 
-1. Check if you already have a folder called **Bachelor**. If not, right-click in empty space → **New Folder** → name it `Bachelor`.
+1. Go to Documents and create a folder called **Bachelor**. Right-click in empty space → **New Folder** → name it `Bachelor`.
 2. Open the `Bachelor` folder, then create a new folder inside it called `year1`.
 3. Open `year1`, then create a new folder inside it called `CourseName`. You can choose the code of this course (e.g. `ECTB1110`), the name of the course (e.g. `GrandChallenges`), or a variation (e.g. `ECTB1110_GrandChallenges`). Choose according to your preference or think of your own filenaming system.
 4. Open `GrandChallenges`, then create a new folder inside it called `week01`.
@@ -71,9 +72,9 @@ Once you're in your home folder:
 You should end up with this path:
 
 ```
-~/Bachelor/year1/CourseName/week01
+~/Documents/Bachelor/year1/CourseName/week01
 ```
 
-(shown in Finder as **Macintosh HD → Users → yourusername → Bachelor → year1 → CourseName → week01**)
+(shown in Finder as **Macintosh HD → Users → yourusername → Documents → Bachelor → year1 → CourseName → week01**)
 
-This is where you will save all the documents related to this course. Make sure to use this folder structure for your other courses as well to keep the overview on your laptop.
+The folder with the coursename is where you will save all the documents related to this course. Make sure to use this folder structure for your other courses as well to keep the overview on your laptop.
