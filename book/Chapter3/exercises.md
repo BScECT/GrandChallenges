@@ -1,5 +1,5 @@
 # → Exercises
-You can now work on the exercises of chapter 3 your self. Download the Jupyter Notebook and go through the different sections.
+You can now work on the exercises of chapter 3 yourself. Download the Jupyter Notebook and go through the different sections.
 
 :::{admonition} Ready to get started?
 :class: tip
