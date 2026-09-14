@@ -1,6 +1,6 @@
 # Variables in Python
 
-This chapter links to section 2 in Think Python (2nd ed.)
+More information in Think Python (2nd ed.) - Section 2
 
 When you want to compute something, you often need to store a piece of information so you can use it later, for example a number, a name, a result of a calculation. In Python, you do this with a **variable**. Think of a variable as a labeled box: you give it a name, and you put a value inside it.
 
