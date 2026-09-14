@@ -45,4 +45,4 @@ a = a + 5
 print(a)  # returns 25 now
 ```
 
-Try this code in your Jupyter Notebook.
+Try the above examples of code in your Jupyter Notebook and show it to your TA.
