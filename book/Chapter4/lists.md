@@ -29,8 +29,37 @@ print(second_item) # returns "second this"
 
 And if we want the third.... I think you got this.
 
-## REASSIGNING
-TODO
+## Reassigning
+Just like you reassign variables in Python like this:
+```Python
+variable = "Change me"
+print(variable)  # returns Change me
+variable = "Changed you"
+print(variable)  # returns Changed you
+```
+You can also reassign the values of a list using the index of the value you want to change. For example:
+```Python
+my_list = ["How", "is", "your", "dog", "?"]
+print(" ".join(my_list))  # returns How is your dog ?
+
+my_list[3] = "cat"  # replacing the fourth index with cat instead
+print(" ".join(my_list))  # returns How is your cat ?
+```
+
+## Appending and popping
+You can also add and remove stuff from your list to make it longer and shorter. To add another item to your list, you use its `append()` method, like so:
+```Python
+my_list = [1, 2, 3]
+my_list.append(4)
+print(my_list)  # returns [1, 2, 3, 4]
+```
+With the `pop()` method of a list you can instead remove items from your lists as well. You can use it either with an index, or without (which means it will remove the last item from your list).
+```Python
+my_list = [1, 2, 3]
+my_list.pop()
+print(my_list)  #returns [1, 2]
+```
+These are just the basic methods available, for a more complete overview check out the [Think Python chapter on lists](https://allendowney.github.io/ThinkPython/chap09.html#list-methods).
 
 ## Look at all the stuff you can do with lists
 When you have lists, the possibilites are endless. Inbuilt functionalities like `len()` or `sort()` will tell you the length of your list or sort your list however you want. You can index your list the other way around using negative numbers, so `list[-1]` gives you it's last item. You can slice a list or stick them together again.
