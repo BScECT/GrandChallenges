@@ -1,4 +1,7 @@
 # Larger equations
+
+The equations we have shown so far don't need a computer to solve, but python comes in handy when equations become more complicated.
+
 Besides making sure that you use the right operators when writing mathematical functions, it is also important that you pay attention to the order of operators. When not done right, this can cause huge changes in the outcome. Therefore, when writing out large equations it is easier to use parentheses or split it into multiple variables. e.g.:
 
 $$

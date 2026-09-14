@@ -6,6 +6,7 @@ Values in Python come in different types, and the type determines what you can d
 - **Floats** (`float`) — decimal numbers, like `7.8` or `3.14`
 - **Strings** (`str`) — text, written between quotes, like `"Sam"` or `"hello"`
 - **Booleans** (`bool`) — one of two values, `True` or `False`, often the result of a comparison
+- **Lists** (`list`) — ordered collections of values, written between square brackets, like `[1, 2, 3]` or `["Sam", "Alex", "Jo"]`
 
 You can check what type of object is assigned to a variable using Python's built-in `type ` function. Below are a few examples:
 ```Python
@@ -27,21 +28,32 @@ d = True
 print(type(d))  # returns bool
 ```
 
+
+
 ## Casting types
 
 Sometimes you want to change the type of a variable. For example, there is no point in arithmetically adding a number to a string. These problems can sometimes be solved with casting. *Casting* is a procedure of changing a variable type. Actually, you create a new variable with the requested data type using the variable you want to alter. You can change a `string` into an `int` for example:
 ```Python
 string_number = '123'
-print(string_number, type(string_number))
+print(string_number, type(string_number)) # returns 123 as a string
 
 integer_number = int(string_number)
-print(integer_number, type(integer_number))
+print(integer_number, type(integer_number)) # returns 123 as an integer
 ```
-As you can see, both variables look the same in the output but their type now is different. Because of that, the cell below will result in an error.
+Both variables look the same in the output but their type now is different. Because of that, the cell below will result in an error.
+
 ```Python
 string_number + 5
 ```
+
 But the next cell will run normally.
 ```Python
 integer_number + 5
 ```
+
+## Try casting yourself
+- Now open Anaconda explorer and launch Jupyter Notebook (see Chapter 1: "Doing stuff").
+- In Jupyter Notebook, navigate to the directory of this class and create a new directory called "Chapter 2". You can choose your own naming as long as you maintain a clear structure. 
+- Create a new notebook by clicking the button "New" and choose "Python 2 (ipykernel)"
+- Now you can write code yourself in the grey box which we call a "cell". Play around by copy pasting the above lines of code in the kernel. Press **Ctrl + Enter** (for windows) or **cmd + Enter** (for max) to run the kernel to see the output.
+

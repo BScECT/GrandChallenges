@@ -13,13 +13,13 @@ parts:
     - file: Chapter1/input_to_output.md
     - file: Chapter1/types_and_operators.md
 
-  # - caption: "Chapter 2: Variables and operators"
-  #   chapters:
-  #   - file: Chapter2/variables.md
-  #   - file: Chapter2/variable_types.md
-  #   - file: Chapter2/operators.md
-  #   - file: Chapter2/larger_equations.md
-  #   - file: Chapter2/exercises.md
+  - caption: "Chapter 2: Variables and operators"
+    chapters:
+    - file: Chapter2/variables.md
+    - file: Chapter2/variable_types.md
+    - file: Chapter2/operators.md
+    - file: Chapter2/larger_equations.md
+    - file: Chapter2/exercises.md
 
   # - caption: "Chapter 3: Flow and conditions"
   #   chapters:
