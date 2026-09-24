@@ -12,7 +12,7 @@ while True:
 ```
 
 You could execute the above code, and it would start spitting out `I am stuck`, `I am stuck`, `I am stuck`, `I am stuck`, `I am stuck`, `I am stuck`, `I am stuck`, `I am stuck`, `I am stuck`, `I am stuck` until infinity.
-It would keep running forever (or until your laptop runs out of power), because `True` will always be `True`. This may be useful in some instances, but in almost all practical cases you will want to exit the loop at some point. For example, like this:
+It would keep running forever (or until your laptop runs out of power), because the condition is `True` and `True` will always be `True`. This may be useful in some instances, but in almost all practical cases you will want to exit the loop at some point. For example, like this:
 
 ```Python
 freed = "no"
@@ -25,6 +25,8 @@ print("Thank you")
 ```
 
 This code will keep asking you to please free it from its hellish cycle until you benevolently break it free by answering `yes`.
+### Exercise
+Try to run the loop yourself by copying the code and make it stop the cycle.
 
 
 ## For every cookie in the jar
@@ -63,3 +65,6 @@ while True:
         break
 ```
 This loop will repeatedly ask the question whether you are a good programmer. Unless you answer `yes` or `absolutely`, the program will stay in this loop. If you do answer truthfully, however, the program will `break` and finish.
+
+### Exercise
+Try to run the loop yourself by copying the code and make it stop the cycle.
