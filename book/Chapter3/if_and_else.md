@@ -24,6 +24,8 @@ else:
     print("Look at that tiny *$&*# number")
 ```
 
+Python reads from top to bottom trough the `if` statement. If a condition is `True`, python will conduct the indeted lines of code beneath and skips all the other conditions of the `if` statement. Using the example above: python will first check the first condition. If the variable 'number' is higher than 20, the condition is `True` and python will execute the `print` statement. Therefore, it won't continue with the `else` statement and stops the procedure. If the variable 'number' is lower than 20, the condition is `False` and python will not execute the `print` statement "That's a large number". Because the first condition is `False`, now python will continue with the `else` statement and print "Look at that tiny *$&*# number". The `else` statement does not have a condition and will always be executed in case the previous conditions are all `False`.
+
 ## What if else?
 One final `if` statement remains: `elif`. With `elif` (think *else if*) you can chain multiple `if` statements together for more complex conditional operations, like so:
 ```Python
@@ -40,9 +42,10 @@ else:
     # This happens only when the number is between 10 and 20
     print("Just perfect")
 ```
+In this case, python first reads the first condition (which checks if the number is greater than 20). If the condition is `True`, python will print "That's a large number!" and stops the whole procedure. It's wont continue with the second condition. If the first condition is `False`, python prints nothing and continues with reading the next condition (which checks if the number is smaller than 10). Is this second condition is `True`, it will print ""Look at that tiny *$&*# number", and stops the whole procedure. It won't continue with the else statement. If the second condition is `False`, it continues to the `else` statement and will print ""Just perfect".
 
 ## Indentation is important
-As you can see, all these different codeblocks are indented. This is important because it's how Python knows code belongs together. Any code that doesn't have the four spaces anymore is not part of a block. Learn to read the code like this, because the same principle goes for **loops**, **functions** and **classes**, too (we will get to them later).
+As you can see, all these different codeblocks are indented, which means that there are 4 spaces in front of certain lines. This is important because it's how Python knows code belongs together. Any lines of code that doesn't have the four spaces anymore is not part of a block. Learn to read the code like this, because the same principle goes for **loops**, **functions** and **classes**, too (we will get to them later).
 
 ```Python
 number = input("Pick a number, any number: ")

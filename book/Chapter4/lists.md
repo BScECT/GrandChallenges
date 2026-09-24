@@ -1,5 +1,5 @@
 # Ordering data
-Up until now we have been working with a manageable number of variables, a manageable number of datapoints. But the real strength in using programming code is making your computer do something a hundred, a thousand, nay a million times. You don't want to manually input a single datapoint every time you run your code, so we need ways to store more complex data.
+Up until now we have been working with a manageable number of variables and a manageable number of datapoints. But the real strength in using programming code is making your computer do something a hundred, a thousand, nay a million times. You don't want to manually input a single datapoint every time you run your code, so we need ways to store more complex data.
 
 You may remember from Week 1 that there are many different variable `types`. We've covered, `strings` and numbers like `integers` and `floats`. Last week we covered `booleans` that can only be either `True` or `False`. This week, we will be looking at two new data types: `lists` and `dictionaries`.
 
@@ -14,20 +14,25 @@ In Python, we would create such a list like this:
 my_list = ["First this", "second this", "third this", "then this", "..."]
 ```
 
-This is a list of strings. As you can see it has five **items**. Fun to make, but useless if we cannot access the individual items in the list. For this we use the position in the list of the item we want, also called the **index** of the item. Python starts counting at zero (just accept that it does), so if we want the first item of the list we do this:
+This is a list of strings. As you can see it has five **items**, seperated by a comma. Fun to make, but useless if we cannot access the individual items in the list. For this we use the position in the list of the item we want, also called the **index** of the item. Python starts counting at zero (just accept that it does). In the example above where the variable "my_list" is defined, the index number 0 belongs to the first item, which is "First this". The index number 1 belongs to second item, which is "second this", and so on.
+
+If we want to create a new variable (for example called "first item") that contains the first item of the list above, we do this:
 
 ```Python
 first_item = my_list[0]
 print(first_item) # returns "First this"
 ```
 
-And if we want the second, we do this:
+And if we want the second item, we do this:
 ```Python
 second_item = my_list[1]
 print(second_item) # returns "second this"
 ```
 
 And if we want the third.... I think you got this.
+
+### Exercise
+Copy all the lines of code above and paste it into a new cell in a python notebook. Now create more variables selecting different items from the list "my_list". Which item is selected when the index is -1?
 
 ## Reassigning
 Just like you reassign variables in Python like this:
@@ -37,11 +42,15 @@ print(variable)  # returns Change me
 variable = "Changed you"
 print(variable)  # returns Changed you
 ```
-You can also reassign the values of a list using the index of the value you want to change. For example:
+
+If you want to print het whole list of items where the items are shown in 1 line in the print statement, you can use the command "join". For example:
 ```Python
 my_list = ["How", "is", "your", "dog", "?"]
 print(" ".join(my_list))  # returns How is your dog ?
+```
 
+You can reassign the values of a list using the index of the value you want to change. For example:
+```Python
 my_list[3] = "cat"  # replacing the fourth index with cat instead
 print(" ".join(my_list))  # returns How is your cat ?
 ```
@@ -75,4 +84,4 @@ print(list_list[1][1])  # returns "five"
 ```
 *Spoiler: this is how practically any table on a computer actually works*
 
-You don't need to remember all of this, just know that it is possible whenever you face a programming problem that requires it. What you do need to know is what a **loop** is, and how they turn lists from cool, to amazing.
+In this course you need to understand how to make a list and how to change a list using indexing. You don't need to remember by heart all the commands like "len" and "sort", just know that it is possible whenever you face a programming problem that requires it. What you do need to know is what a **loop** is, and how they turn lists from cool, to amazing.
