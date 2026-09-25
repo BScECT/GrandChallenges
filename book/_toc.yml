@@ -28,11 +28,13 @@ parts:
     - file: Chapter3/other_conditions.md
     - file: Chapter3/exercises.md
 
-  # - caption: "Chapter 4: Lists and loops"
-  #   chapters:
-  #   - file: Chapter4/lists.md
-  #   - file: Chapter4/loops.md
-  #   - file: Chapter4/dictionaries.md
+  - caption: "Chapter 4: Lists and loops"
+    chapters:
+    - file: Chapter4/lists.md
+    - file: Chapter4/loops.md
+    - file: Chapter4/dictionaries.md
+    - file: Chapter4/exercises.md
+
 
   # - caption: "Chapter 5: Functions and classes"
   #   chapters:
