@@ -41,6 +41,8 @@ parts:
   #   - file: Chapter5/define_functions.md
   #   - file: Chapter5/apply_functions.md
   #   - file: Chapter5/build_functions.md
+  #   - file: Chapter5/slices.md
+  #   - file: Chapter5/debugging.md
   #   - file: Chapter5/exercises.md
 
   # - caption: "Chapter 6: Data and figures"
