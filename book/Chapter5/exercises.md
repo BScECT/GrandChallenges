@@ -1,4 +1,4 @@
-# → Exercises (NOT FOR STUDENTS, NO FINAL VERSION, DO NOT DOWNLOAD)
+# → Exercises
 You can now work on the exercises of chapter 6 yourself. Download the Jupyter Notebook and go through the different sections.
 
 :::{admonition} Ready to get started?
