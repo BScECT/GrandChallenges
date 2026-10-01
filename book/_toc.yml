@@ -35,19 +35,21 @@ parts:
     - file: Chapter4/dictionaries.md
     - file: Chapter4/exercises.md
 
-
-  # - caption: "Chapter 5: Functions and classes"
+  # - caption: "Chapter 5: Modules and figures"
   #   chapters:
-  #   - file: Chapter5/define_functions.md
-  #   - file: Chapter5/apply_functions.md
-  #   - file: Chapter5/build_functions.md
+  #   - file: Chapter5/modules.md
   #   - file: Chapter5/slices.md
-  #   - file: Chapter5/debugging.md
-  #   - file: Chapter5/exercises.md
+  #   - file: Chapter5/figures.md
 
-  # - caption: "Chapter 6: Data and figures"
+  # - caption: "Chapter 6: Functions"
   #   chapters:
-  #   - file: Chapter6/figures.md
+  #   - file: Chapter6/define_functions.md
+  #   - file: Chapter6/apply_functions.md
+  #   - file: Chapter6/build_functions.md
+  #   - file: Chapter6/debugging.md
+  #   - file: Chapter6/exercises.md
+
+
 
     # - file: exercise_notebooks/exercise_notebook_week_1.ipynb
 

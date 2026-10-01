@@ -56,14 +56,18 @@ print(every_other_month)  # prints [-1, 1.3, 11.2, 17.8, 13.7, 4.1]
 ```
 
 ### A slice is a new list
-A slice gives you a **new** list, the original list stays exactly the same. That means you can do anything with a slice that you can do with a list: store it in a variable, loop over it, or give it to a function. For example, to the `average()` function from earlier in this chapter:
+A slice gives you a **new** list, the original list stays exactly the same. That means you can do anything with a slice that you can do with a list: store it in a variable, loop over it, or give it to a function. For example, to the `mean()` function from the built-in NumPy module:
 
 ```Python
-print(average(temperatures_c[:6]))  # prints 5.25
-print(average(temperatures_c[6:]))  # prints about 10.45
+import numpy as np
+
+print(np.mean(temperatures_c[:6]))  # prints 5.25
+print(np.mean(temperatures_c[6:]))  # prints about 10.45
 ```
 
 So the second half of the year was quite a bit warmer than the first half.
+
+Note that by adding `as np` in the import statement, we can just use `np.` to call functions from this module, and don't need to type out `numpy.` every time.
 
 What about winter? December, January and February are at the end *and* at the beginning of the list, so one slice won't do. But just like strings, you can glue lists together using `+`:
 
