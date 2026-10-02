@@ -37,7 +37,7 @@ parts:
 
   - caption: "Chapter 5: Modules and figures"
     chapters:
-    - file: Chapter5/modules.md
+    - file: Chapter5/use_modules.md
     - file: Chapter5/slices.md
     - file: Chapter5/figures.md
     # - file: Chapter5/exercises.md
