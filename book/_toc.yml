@@ -35,11 +35,11 @@ parts:
     - file: Chapter4/dictionaries.md
     - file: Chapter4/exercises.md
 
-  # - caption: "Chapter 5: Modules and figures"
-    # chapters:
-  #   - file: Chapter5/modules.md
-  #   - file: Chapter5/slices.md
-  #   - file: Chapter5/figures.md
+  - caption: "Chapter 5: Modules and figures"
+    chapters:
+    - file: Chapter5/modules.md
+    - file: Chapter5/slices.md
+    - file: Chapter5/figures.md
     # - file: Chapter5/exercises.md
 
 
