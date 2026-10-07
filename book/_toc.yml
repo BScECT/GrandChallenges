@@ -40,7 +40,7 @@ parts:
     - file: Chapter5/use_modules.md
     - file: Chapter5/slices.md
     - file: Chapter5/figures.md
-    # - file: Chapter5/exercises.md
+    - file: Chapter5/exercises.md
 
 
   # - caption: "Chapter 6: Functions"
