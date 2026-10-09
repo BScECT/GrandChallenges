@@ -75,6 +75,33 @@ plt.ylabel('Number of students [-]')
 plt.title('Distribution of exam grades')
 ```
 
+### Bar chart
+
+A *bar chart* shows one bar for each item, where the height of the bar is the value of that item. It is useful when you want to compare values between categories, such as days, cities or measurement stations. The x-values can be strings, so you can directly use the names of the categories:
+
+```python
+days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+rainfall = [0.0, 2.4, 11.2, 0.0, 5.1, 0.5, 1.8]
+
+plt.bar(days, rainfall)
+plt.xlabel('Day')
+plt.ylabel('Rainfall [mm]')
+plt.title('Rainfall per day')
+```
+
+Note the difference with a histogram: in a histogram Python counts the values for you, while in a bar chart you give the height of each bar yourself.
+
+You can give all bars the same colour with, for example, `color='green'`. But you can also give `color` a list with a colour for each bar. Here we make the wettest day stand out:
+
+```python
+colors = ['grey', 'grey', 'blue', 'grey', 'grey', 'grey', 'grey']
+
+plt.bar(days, rainfall, color=colors)
+plt.xlabel('Day')
+plt.ylabel('Rainfall [mm]')
+plt.title('Rainfall per day')
+```
+
 ### Multiple graphs, linestyle, legend
 
 We will now show how you can add multiple graphs in the same figure, using the monthly mean temperatures of three countries:
