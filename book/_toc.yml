@@ -43,13 +43,13 @@ parts:
     - file: Chapter5/exercises.md
 
 
-  # - caption: "Chapter 6: Functions"
-  #   chapters:
-  #   - file: Chapter6/define_functions.md
-  #   - file: Chapter6/apply_functions.md
-  #   - file: Chapter6/build_functions.md
-  #   - file: Chapter6/debugging.md
-  #   - file: Chapter6/exercises.md
+  - caption: "Chapter 6: Functions"
+    chapters:
+    - file: Chapter6/define_functions.md
+    - file: Chapter6/apply_functions.md
+    - file: Chapter6/build_functions.md
+    - file: Chapter6/debugging.md
+    - file: Chapter6/exercises.md
 
 
 
