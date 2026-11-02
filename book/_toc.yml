@@ -50,3 +50,7 @@ parts:
     - file: Chapter6/build_functions.md
     - file: Chapter6/debugging.md
     - file: Chapter6/exercises.md
+
+  - caption: "Chapter 7: Numpy"
+    chapters:
+    - file: Chapter7/exercises.md
