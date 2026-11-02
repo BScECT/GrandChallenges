@@ -5,7 +5,7 @@ You can start with the Practice Notebook to get familiar with numpy arrays. Then
 :class: tip
 <br>
 <a href="../Practice_notebook_numpy.ipynb" download>
-Download Chapter 7 exercises →
+Download the practice notebook →
 <br>
 
 <br>
